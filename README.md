@@ -1,4 +1,4 @@
-# Import and Export an Object using Common JS Module Syntax
+# Import and Export an Object using Common JS Module Syntax...
 
 Create two files `exportObject.js`, `importObject.js` parallel to `README.md` file.
 
